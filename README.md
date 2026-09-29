@@ -80,7 +80,6 @@ Top-k Retrieved Documents
 * Python
 * Pandas
 * NumPy
-* PyTorch
 * Sentence Transformers
 * BGE embedding models
 * FAISS
